@@ -1,14 +1,12 @@
-
 ---
 title: Welcome to my Homelab
-date: March 11th, 2025 @ 13:48pm
+date: March 14th, 2025 @ 13:48pm
 categories: [homelab, thoughts]
 tags: [servers, thinkpad]
 ---
 
-#Return to an old interest with a renewed passion.
+# Return to an old interest with a renewed passion.
 
-This is a test.
 
 The other weekend, I was at my parents house for a family gathering to celebrate one of my brother's birthdays.  During conversation with my 18 niece, I learned that teens these days have gone back to carrying digital cameras with them.  A trend that I gave up with around the timeline of the release and purchase of my first iPhone.  Outside of a period of a few years where I was invested in the hobby of photography, with an focus on widelife photography, I truly never felt the need to carry a extra device for just day to day photos.  Butt, as I have also learned from my niece that low raise jeans are back (something my wife is not fond of), it seems a number of trends from the early 2000's are returning.  So, I thought, why not blogging!
 
