@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Welcome to my Homelab
 date: March 14th, 2025 @ 13:48pm
 categories: [homelab, thoughts]
